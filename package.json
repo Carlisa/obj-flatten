@@ -1,6 +1,6 @@
 {
   "name": "obj-flatten",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Convert nested objects in flatten ones.",
   "main": "lib/index.js",
   "directories": {
@@ -51,6 +51,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
